@@ -50,4 +50,4 @@ user_groups:
 
 Ben Williams is an assistant professor in the Department of Business Information and Analytics, Daniels College of Business at the University of Denver. His research focuses on combining data sources, specifically, blending big data sets with smaller probability samples. He is also interested in text-mining/natural language processing and recently worked on such applications for 19th century British Parliamentary debates.
 
-Outside of work, Ben enjoys spending time with his wife, going for long runs, raising the perfect sourdough starter, and cooking through his new favorite cookbooks.
+Outside of work, Ben enjoys spending time with his wife, Alyssa, going for long runs, raising the perfect sourdough starter, and cooking through his new favorite cookbooks.
