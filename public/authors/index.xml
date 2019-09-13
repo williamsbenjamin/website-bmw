@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Ben Williams</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2019</copyright><lastBuildDate>Sun, 14 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/headshot_dc.jpg</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Bio</title>
+      <link>/authors/ben/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ben/</guid>
+      <description>&lt;p&gt;Ben Williams is an assistant professor in the Department of Business Information and Analytics, Daniels College of Business at the University of Denver. His research focuses on combining data sources, specifically, blending big data sets with smaller probability samples. He is also interested in text-mining/natural language processing and recently worked on such applications for 19th century British Parliamentary debates.&lt;/p&gt;
+
+&lt;p&gt;Outside of work, Ben enjoys spending time with his wife, going for long runs, raising the perfect sourdough starter, and cooking through his new favorite cookbooks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kathleen R. Bell</title>
+      <link>/authors/kathleen-r.-bell/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/kathleen-r.-bell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Megan Murphy</title>
+      <link>/authors/megan-murphy/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/megan-murphy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sushmita Purkayastha</title>
+      <link>/authors/sushmita-purkayastha/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/sushmita-purkayastha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sydney Long</title>
+      <link>/authors/sydney-long/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/sydney-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tonia Sabo</title>
+      <link>/authors/tonia-sabo/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/tonia-sabo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amanda Woodruff</title>
+      <link>/authors/amanda-woodruff/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/amanda-woodruff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric James</title>
+      <link>/authors/eric-james/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/eric-james/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heather Adair</title>
+      <link>/authors/heather-adair/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/heather-adair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laurence J. Ryan</title>
+      <link>/authors/laurence-j.-ryan/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/laurence-j.-ryan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

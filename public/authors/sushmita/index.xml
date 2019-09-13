@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sushmita | Ben Williams</title>
+    <link>/authors/sushmita/</link>
+      <atom:link href="/authors/sushmita/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sushmita</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2019</copyright><lastBuildDate>Tue, 14 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/headshot_dc.jpg</url>
+      <title>Sushmita</title>
+      <link>/authors/sushmita/</link>
+    </image>
+    
+    <item>
+      <title>Synthesis and Large-Scale Textual Corpora A Nested Topic Model of Britain’s Debates over Landed Property in the Nineteenth Century</title>
+      <link>/publication/postural_sway/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/postural_sway/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

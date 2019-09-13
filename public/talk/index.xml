@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Ben Williams</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2019</copyright><lastBuildDate>Fri, 26 Oct 2018 09:45:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/headshot_dc.jpg</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>Understanding the Effects of Record Linkage on Estimation of Total When Combining a Big Data Source With a Probability Sample</title>
+      <link>/talk/bigsurv/</link>
+      <pubDate>Fri, 26 Oct 2018 09:45:00 +0000</pubDate>
+      <guid>/talk/bigsurv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Mining with R</title>
+      <link>/talk/stat_club_smu/</link>
+      <pubDate>Fri, 06 Apr 2018 09:45:00 +0000</pubDate>
+      <guid>/talk/stat_club_smu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>text-mining | Ben Williams</title>
+    <link>/tags/text-mining/</link>
+      <atom:link href="/tags/text-mining/index.xml" rel="self" type="application/rss+xml" />
+    <description>text-mining</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2019</copyright><lastBuildDate>Tue, 14 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/headshot_dc.jpg</url>
+      <title>text-mining</title>
+      <link>/tags/text-mining/</link>
+    </image>
+    
+    <item>
+      <title>Synthesis and Large-Scale Textual Corpora A Nested Topic Model of Britain’s Debates over Landed Property in the Nineteenth Century</title>
+      <link>/publication/crdh/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/crdh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

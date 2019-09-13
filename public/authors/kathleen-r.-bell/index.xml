@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kathleen R. Bell | Ben Williams</title>
+    <link>/authors/kathleen-r.-bell/</link>
+      <atom:link href="/authors/kathleen-r.-bell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kathleen R. Bell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2019</copyright><lastBuildDate>Sun, 14 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/headshot_dc.jpg</url>
+      <title>Kathleen R. Bell</title>
+      <link>/authors/kathleen-r.-bell/</link>
+    </image>
+    
+    <item>
+      <title>Reduced heart rate variability and lower cerebral blood flow associated with poor cognition during recovery following concussion</title>
+      <link>/publication/blood_flow/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/blood_flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balance Testing Following Concussion: Postural Sway versus Complexity Index</title>
+      <link>/publication/postural_sway/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/postural_sway/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

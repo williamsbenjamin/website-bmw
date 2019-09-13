@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bio | Ben Williams</title>
+    <link>/authors/ben/</link>
+      <atom:link href="/authors/ben/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2019</copyright><lastBuildDate>Sun, 14 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/headshot_dc.jpg</url>
+      <title>Bio</title>
+      <link>/authors/ben/</link>
+    </image>
+    
+    <item>
+      <title>Reduced heart rate variability and lower cerebral blood flow associated with poor cognition during recovery following concussion</title>
+      <link>/publication/blood_flow/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/blood_flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balance Testing Following Concussion: Postural Sway versus Complexity Index</title>
+      <link>/publication/postural_sway/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/postural_sway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the Effects of Record Linkage on Estimation of Total When Combining a Big Data Source With a Probability Sample</title>
+      <link>/talk/bigsurv/</link>
+      <pubDate>Fri, 26 Oct 2018 09:45:00 +0000</pubDate>
+      <guid>/talk/bigsurv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining a Probability and a Non-Probability Sample in a Capture-Recapture Setting</title>
+      <link>/publication/blendr/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/blendr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis and Large-Scale Textual Corpora A Nested Topic Model of Britain’s Debates over Landed Property in the Nineteenth Century</title>
+      <link>/publication/crdh/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/crdh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Mining with R</title>
+      <link>/talk/stat_club_smu/</link>
+      <pubDate>Fri, 06 Apr 2018 09:45:00 +0000</pubDate>
+      <guid>/talk/stat_club_smu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

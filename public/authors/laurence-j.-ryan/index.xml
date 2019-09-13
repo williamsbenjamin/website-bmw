@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laurence J. Ryan | Ben Williams</title>
+    <link>/authors/laurence-j.-ryan/</link>
+      <atom:link href="/authors/laurence-j.-ryan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laurence J. Ryan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2019</copyright><lastBuildDate>Thu, 14 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/headshot_dc.jpg</url>
+      <title>Laurence J. Ryan</title>
+      <link>/authors/laurence-j.-ryan/</link>
+    </image>
+    
+    <item>
+      <title>Balance Testing Following Concussion: Postural Sway versus Complexity Index</title>
+      <link>/publication/postural_sway/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/postural_sway/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
