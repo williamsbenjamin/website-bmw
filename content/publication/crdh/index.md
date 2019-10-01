@@ -1,6 +1,7 @@
 ---
 abstract: CRDH
 authors:  
+- Jo Guldi
 - ben
 date: "2018-08-14T00:00:00Z"
 doi: 10.31835/crdh.2018.01
