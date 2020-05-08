@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Record Linkage | Ben Williams</title>
+    <link>/tags/record-linkage/</link>
+      <atom:link href="/tags/record-linkage/index.xml" rel="self" type="application/rss+xml" />
+    <description>Record Linkage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2020</copyright><lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/headshot_dc.jpg</url>
+      <title>Record Linkage</title>
+      <link>/tags/record-linkage/</link>
+    </image>
+    
+    <item>
+      <title>The Impact of Nonsampling Errors on Estimators of Catch from Electronic Reporting Systems</title>
+      <link>/publication/jssam/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/jssam/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

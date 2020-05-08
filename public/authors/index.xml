@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2019</copyright><lastBuildDate>Sun, 14 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2020</copyright><lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/headshot_dc.jpg</url>
       <title>Authors</title>
@@ -15,12 +15,36 @@
     <item>
       <title>Bio</title>
       <link>/authors/ben/</link>
-      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/authors/ben/</guid>
       <description>&lt;p&gt;Ben Williams is an assistant professor in the Department of Business Information and Analytics, Daniels College of Business at the University of Denver. His research focuses on combining data sources, specifically, blending big data sets with smaller probability samples. He is also interested in text-mining/natural language processing and recently worked on such applications for 19th century British Parliamentary debates.&lt;/p&gt;
 
 &lt;p&gt;Outside of work, Ben enjoys spending time with his wife, Alyssa, going for long runs, raising the perfect sourdough starter, and cooking through his new favorite cookbooks.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Lynne Stokes</title>
+      <link>/authors/lynne-stokes/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/lynne-stokes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ryan PA McShane</title>
+      <link>/authors/ryan-pa-mcshane/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ryan-pa-mcshane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shalima Zalsha</title>
+      <link>/authors/shalima-zalsha/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/shalima-zalsha/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -104,6 +128,14 @@
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Jo Guldi</title>
+      <link>/authors/jo-guldi/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/jo-guldi/</guid>
+      <description></description>
     </item>
     
   </channel>
