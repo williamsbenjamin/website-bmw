@@ -5,12 +5,36 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2020</copyright><lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2020</copyright><lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/headshot_dc.jpg</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Business Analytics</title>
+      <link>/tags/business-analytics/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/business-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19</title>
+      <link>/tags/covid-19/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/tags/teaching/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/teaching/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Non-probability</title>

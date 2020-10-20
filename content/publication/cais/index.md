@@ -4,7 +4,7 @@ authors:
 - ben
 - Ryan Elmore
 date: "2020-10-20T00:00:00Z"
-doi: 10.1016/j.autneu.2019.04.004
+doi: 
 featured: false
 image:
   caption: ""
@@ -14,7 +14,7 @@ publication: Communications of the Association for Information Systems
 publication_short: CAIS 
 publication_types:
 - "2"
-publish_Date: "2019-04-01T00:00:00Z" 
+publish_Date: "2020-10-20T00:00:00Z" 
 summary: 
 tags: 
 - COVID-19

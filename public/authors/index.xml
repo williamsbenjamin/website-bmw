@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2020</copyright><lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2020</copyright><lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/headshot_dc.jpg</url>
       <title>Authors</title>
@@ -15,12 +15,20 @@
     <item>
       <title>Bio</title>
       <link>/authors/ben/</link>
-      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       <guid>/authors/ben/</guid>
       <description>&lt;p&gt;Ben Williams is an assistant professor in the Department of Business Information and Analytics, Daniels College of Business at the University of Denver. His research focuses on combining data sources, specifically, blending big data sets with smaller probability samples. He is also interested in text-mining/natural language processing and recently worked on such applications for 19th century British Parliamentary debates.&lt;/p&gt;
 
 &lt;p&gt;Outside of work, Ben enjoys spending time with his wife, Alyssa, going for long runs, raising the perfect sourdough starter, and cooking through his new favorite cookbooks.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Ryan Elmore</title>
+      <link>/authors/ryan-elmore/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ryan-elmore/</guid>
+      <description></description>
     </item>
     
     <item>

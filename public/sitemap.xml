@@ -4,22 +4,62 @@
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/ben/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/business-analytics/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/covid-19/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ryan-elmore/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/teaching/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cais/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -34,16 +74,6 @@
   
   <url>
     <loc>/tags/non-sampling-errors/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2019-11-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -64,11 +94,6 @@
   
   <url>
     <loc>/tags/survey/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-11-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -270,11 +295,6 @@
   <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/cais/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

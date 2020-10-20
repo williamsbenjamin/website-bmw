@@ -5,12 +5,20 @@
     <link>/authors/ben/</link>
       <atom:link href="/authors/ben/index.xml" rel="self" type="application/rss+xml" />
     <description>Bio</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2020</copyright><lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2020</copyright><lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/headshot_dc.jpg</url>
       <title>Bio</title>
       <link>/authors/ben/</link>
     </image>
+    
+    <item>
+      <title>Teaching Business Analytics During the COVID19 Pandemic</title>
+      <link>/publication/cais/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/cais/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Impact of Nonsampling Errors on Estimators of Catch from Electronic Reporting Systems</title>
