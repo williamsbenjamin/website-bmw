@@ -20,7 +20,7 @@ tags:
 - COVID-19
 - Teaching
 - Business Analytics
-title: 'Teaching Business Analytics During the COVID19 Pandemic: A Tale of Two Courses'
+title: 'Teaching Business Analytics During the COVID-19 Pandemic: A Tale of Two Courses'
 url_pdf: "pubs/cais_20.pdf"
 url_project: ""
 url_slides: ""
