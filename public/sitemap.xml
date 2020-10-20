@@ -213,16 +213,6 @@
   </url>
   
   <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/external-project/</loc>
     <lastmod>2018-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -280,6 +270,11 @@
   <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cais/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
