@@ -21,7 +21,7 @@ tags:
 - Teaching
 - Business Analytics
 title: 'Teaching Business Analytics During the COVID19 Pandemic'
-url_pdf: ""
+url_pdf: "pubs/cais_20.pdf"
 url_project: ""
 url_slides: ""
 url_source: "" 
