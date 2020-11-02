@@ -5,12 +5,20 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2020</copyright><lastBuildDate>Fri, 26 Oct 2018 09:45:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2020</copyright><lastBuildDate>Fri, 09 Oct 2020 09:45:00 +0000</lastBuildDate>
     <image>
       <url>/img/headshot_dc.jpg</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Web Scraping</title>
+      <link>/talk/web-scraping-du-20/</link>
+      <pubDate>Fri, 09 Oct 2020 09:45:00 +0000</pubDate>
+      <guid>/talk/web-scraping-du-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Understanding the Effects of Record Linkage on Estimation of Total When Combining a Big Data Source With a Probability Sample</title>

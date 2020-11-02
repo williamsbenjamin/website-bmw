@@ -63,6 +63,16 @@
   </url>
   
   <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-10-09T09:45:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/web-scraping-du-20/</loc>
+    <lastmod>2020-10-09T09:45:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/lynne-stokes/</loc>
     <lastmod>2019-11-06T00:00:00+00:00</lastmod>
   </url>
@@ -190,11 +200,6 @@
   <url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2018-10-26T09:45:00+00:00</lastmod>
   </url>
   
   <url>
