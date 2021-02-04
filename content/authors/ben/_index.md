@@ -35,7 +35,7 @@ social:
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/williams_benjam
+  link: https://twitter.com/statswithben
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=WjHkM3QAAAAJ&hl=en&oi=sra

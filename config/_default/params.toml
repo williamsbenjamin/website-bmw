@@ -81,7 +81,7 @@ address = "Daniels College of Business <br> 2101 S University Blvd, Denver, CO 8
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 # contact_links = [
-#   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/williams_benjam"}
+#   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/statswithben"}
 #   ]
 
 # Display a map.
