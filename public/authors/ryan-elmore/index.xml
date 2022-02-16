@@ -5,12 +5,20 @@
     <link>/authors/ryan-elmore/</link>
       <atom:link href="/authors/ryan-elmore/index.xml" rel="self" type="application/rss+xml" />
     <description>Ryan Elmore</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2021</copyright><lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2022</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/headshot_dc.jpg</url>
       <title>Ryan Elmore</title>
       <link>/authors/ryan-elmore/</link>
     </image>
+    
+    <item>
+      <title>Simulation-based decision making in the NFL using NFLSimulatoR</title>
+      <link>/publication/aor/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/aor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Teaching Business Analytics During the COVID-19 Pandemic: A Tale of Two Courses</title>

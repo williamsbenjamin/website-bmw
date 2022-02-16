@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2021</copyright><lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2022</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/headshot_dc.jpg</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Bio</title>
       <link>/authors/ben/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/authors/ben/</guid>
       <description>&lt;p&gt;Ben Williams is an assistant professor in the Department of Business Information and Analytics, Daniels College of Business at the University of Denver. His research focuses on combining data sources, specifically, blending big data sets with smaller probability samples. He is also interested in text-mining/natural language processing and recently worked on such applications for 19th century British Parliamentary debates.&lt;/p&gt;
 
@@ -26,8 +26,16 @@
     <item>
       <title>Ryan Elmore</title>
       <link>/authors/ryan-elmore/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/authors/ryan-elmore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Will Palmquist</title>
+      <link>/authors/will-palmquist/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/will-palmquist/</guid>
       <description></description>
     </item>
     
