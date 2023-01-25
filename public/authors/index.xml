@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2022</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2023</copyright><lastBuildDate>Thu, 06 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/headshot_dc.jpg</url>
       <title>Authors</title>
@@ -15,12 +15,28 @@
     <item>
       <title>Bio</title>
       <link>/authors/ben/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/authors/ben/</guid>
       <description>&lt;p&gt;Ben Williams is an assistant professor in the Department of Business Information and Analytics, Daniels College of Business at the University of Denver. His research focuses on combining data sources, specifically, blending big data sets with smaller probability samples. He is also interested in text-mining/natural language processing and recently worked on such applications for 19th century British Parliamentary debates.&lt;/p&gt;
 
 &lt;p&gt;Outside of work, Ben enjoys spending time with his wife, Alyssa, going for long runs, raising the perfect sourdough starter, and cooking through his new favorite cookbooks.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Jacy Sparks</title>
+      <link>/authors/jacy-sparks/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/jacy-sparks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monnie McGee</title>
+      <link>/authors/monnie-mcgee/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/monnie-mcgee/</guid>
+      <description></description>
     </item>
     
     <item>
