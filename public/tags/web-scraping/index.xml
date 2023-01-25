@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Scraping | Ben Williams</title>
+    <link>/tags/web-scraping/</link>
+      <atom:link href="/tags/web-scraping/index.xml" rel="self" type="application/rss+xml" />
+    <description>Web Scraping</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;cope 2023</copyright><lastBuildDate>Thu, 06 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/headshot_dc.jpg</url>
+      <title>Web Scraping</title>
+      <link>/tags/web-scraping/</link>
+    </image>
+    
+    <item>
+      <title>Athlete Recruitment and the Myth of the Sophomore Peak</title>
+      <link>/publication/tas/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/tas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
