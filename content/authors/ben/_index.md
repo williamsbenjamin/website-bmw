@@ -20,10 +20,10 @@ education:
     year: 2014
 email: ""
 interests:
-- Combining Data Sources
-- Statistical Sampling (Especially Non-Probability Sampling)
-- Statistical Computing
 - Sports Analytics
+- P2P Platform Design
+- Text Mining
+- Statistical Sampling
 name: Ben Williams
 organizations:
 - name: University of Denver
@@ -48,6 +48,6 @@ user_groups:
 - Visitors
 ---
 
-Ben Williams is an assistant professor in the Department of Business Information and Analytics, Daniels College of Business at the University of Denver. His research focuses on combining data sources, specifically, blending big data sets with smaller probability samples. He is also interested in text-mining/natural language processing and recently worked on such applications for 19th century British Parliamentary debates.
+Hey! My name is Ben Williams, I am an assistant professor in the Department of Business Information and Analytics, Daniels College of Business at the University of Denver. My research focuses on sports analytics, P2P platform design, text mining, and statistical sampling, but I love all things statistics and love to collaborate. I am also the co-director for the DU Sports Analytics Lab. Email me if you want to hear more about what we are up to!
 
-Outside of work, Ben enjoys spending time with his wife, Alyssa, going for long runs, raising the perfect sourdough starter, and cooking through his new favorite cookbooks.
+Outside of work, I love spending time with my wife and kids, going for long runs, starting house projects, and fermenting all sorts of delicious things.

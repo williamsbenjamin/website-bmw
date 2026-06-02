@@ -5,8 +5,7 @@ image:
   caption: Photo by Mike Petrucci on Unsplash
 summary: blendR is an R package for blending data sources
 tags:
-- R 
-- blendR
+- Software
 title: blendR
 ---
  
