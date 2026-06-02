@@ -1,5 +1,13 @@
 ---
-abstract: In this paper, we propose two novel basketball metrics: "expected points" for team-based comparisons and "expected points above average (EPAA)" as a player-evaluation tool. Established within the Bayesian hierarchical model framework, teams and players are clustered based on their shooting propensities and abilities using posterior predictive distributions. We illustrate the concepts for the top 100 shot takers over the last decade and offer our metric as an additional metric for evaluating players. We compare our metrics to two traditional NBA player evaluation metrics: player efficiency rating and box plus/minus. Finally, we develop a Shiny web application that allows interested readers to make additional team and player comparisons.
+abstract: 'In this paper, we propose two novel basketball metrics: "expected points"
+  for team-based comparisons and "expected points above average (EPAA)" as a player-evaluation
+  tool. Established within the Bayesian hierarchical model framework, teams and players
+  are clustered based on their shooting propensities and abilities using posterior
+  predictive distributions. We illustrate the concepts for the top 100 shot takers
+  over the last decade and offer our metric as an additional metric for evaluating
+  players. We compare our metrics to two traditional NBA player evaluation metrics:
+  player efficiency rating and box plus/minus. Finally, we develop a Shiny web application
+  that allows interested readers to make additional team and player comparisons.'
 authors:
 - ben
 - Erin Schliep
