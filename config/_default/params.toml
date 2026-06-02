@@ -5,7 +5,7 @@
 #   Latest themes (may require updating Academic): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "du"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -14,7 +14,7 @@ day_night = true
 #   Latest font sets (may require updating Academic): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = ""
+font = "minimal"
 
 # Choose a font size.
 # Sizes: s (small), m (medium), l (large)

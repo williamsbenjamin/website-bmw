@@ -1,0 +1,18 @@
+# University of Denver theme
+name = "du"
+
+# Is theme light or dark?
+light = true
+
+# Primary color (DU Gold)
+primary = "#8B6F4B"
+
+# Menu
+menu_primary = "#8B2332"
+menu_text = "#ffffff"
+menu_text_active = "#f2c75c"
+menu_title = "#ffffff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
