@@ -1,0 +1,21 @@
+# Gruvbox dark theme
+name = "gruvbox"
+
+# Dark theme
+light = false
+
+# Background
+background = "#282828"
+
+# Primary color (DU Crimson)
+primary = "#8B2332"
+
+# Menu
+menu_primary = "#8B2332"
+menu_text = "#ebdbb2"
+menu_text_active = "#fabd2f"
+menu_title = "#ebdbb2"
+
+# Home sections
+home_section_odd = "#282828"
+home_section_even = "#32302f"
